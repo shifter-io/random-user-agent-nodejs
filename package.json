@@ -1,0 +1,35 @@
+{
+  "name": "rand-user-agent",
+  "version": "1.0.80",
+  "description": "This package is for getting latest agents and randomize it",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shifter-io/random-user-agent-scraping-nodejs.git"
+  },
+  "keywords": [
+    "user-agent",
+    "user",
+    "agent",
+    "nodejs",
+    "agents",
+    "user-agents",
+    "random",
+    "random-user-agent"
+  ],
+  "author": "Shifter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shifter-io/random-user-agent-scraping-nodejs/issues"
+  },
+  "homepage": "https://github.com/shifter-io/random-user-agent-scraping-nodejs#readme",
+  "devDependencies": {
+    "device-detector-js": "^2.2.10",
+    "dotenv": "^10.0.0",
+    "pg": "^8.7.1",
+    "ua-parser-js": "^1.0.2"
+  }
+}
